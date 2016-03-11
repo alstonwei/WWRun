@@ -1,0 +1,128 @@
+PODS:
+  - AFNetworking (2.6.3):
+    - AFNetworking/NSURLConnection (= 2.6.3)
+    - AFNetworking/NSURLSession (= 2.6.3)
+    - AFNetworking/Reachability (= 2.6.3)
+    - AFNetworking/Security (= 2.6.3)
+    - AFNetworking/Serialization (= 2.6.3)
+    - AFNetworking/UIKit (= 2.6.3)
+  - AFNetworking/NSURLConnection (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.6.3)
+  - AFNetworking/Security (2.6.3)
+  - AFNetworking/Serialization (2.6.3)
+  - AFNetworking/UIKit (2.6.3):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - AMPopTip (0.10.2)
+  - BlocksKit (2.2.5):
+    - BlocksKit/All (= 2.2.5)
+  - BlocksKit/All (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+    - BlocksKit/MessageUI
+    - BlocksKit/UIKit
+  - BlocksKit/Core (2.2.5)
+  - BlocksKit/DynamicDelegate (2.2.5)
+  - BlocksKit/MessageUI (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+  - BlocksKit/UIKit (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+  - CMPopTipView (2.3.0)
+  - DACircularProgress (2.3.1)
+  - FDFullscreenPopGesture (1.1)
+  - FLAnimatedImage (1.0.12)
+  - FlatUIKit (1.6.2)
+  - FMDB (2.6):
+    - FMDB/standard (= 2.6)
+  - FMDB/standard (2.6)
+  - FXBlurView (1.6.4)
+  - FXLabel (1.5.8)
+  - iOS7Colors (2.0.0)
+  - JGActionSheet (1.0.5)
+  - JTCalendar (2.1.5)
+  - Masonry (0.5.3)
+  - MBProgressHUD (0.9.2)
+  - MGSwipeTableCell (1.5.3)
+  - MJRefresh (3.1.0)
+  - MWPhotoBrowser (2.1.1):
+    - DACircularProgress (~> 2.3)
+    - MBProgressHUD (~> 0.9)
+    - SDWebImage (!= 3.7.2, ~> 3.7)
+  - RBBAnimation (0.4.0)
+  - RDVTabBarController (1.1.9)
+  - RegexKitLite-NoWarning (1.1.0)
+  - SDWebImage (3.7.5):
+    - SDWebImage/Core (= 3.7.5)
+  - SDWebImage/Core (3.7.5)
+  - Shimmer (1.0.2)
+  - UIImage+BlurredFrame (0.0.4)
+  - XLForm (3.1.1)
+  - YTKKeyValueStore (0.1.2):
+    - FMDB (~> 2.0)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.6.3)
+  - AMPopTip
+  - BlocksKit
+  - CMPopTipView
+  - FDFullscreenPopGesture (= 1.1)
+  - FLAnimatedImage (~> 1.0)
+  - FlatUIKit
+  - FXBlurView
+  - FXLabel
+  - iOS7Colors (~> 2.0.0)
+  - JGActionSheet
+  - JTCalendar (~> 2.0)
+  - Masonry (= 0.5.3)
+  - MBProgressHUD
+  - MGSwipeTableCell
+  - MJRefresh
+  - MWPhotoBrowser
+  - RBBAnimation (= 0.4.0)
+  - RDVTabBarController
+  - RegexKitLite-NoWarning (= 1.1.0)
+  - SDWebImage (~> 3.7.4)
+  - Shimmer
+  - UIImage+BlurredFrame (= 0.0.4)
+  - XLForm (~> 3.0)
+  - YTKKeyValueStore
+
+SPEC CHECKSUMS:
+  AFNetworking: cb8d14a848e831097108418f5d49217339d4eb60
+  AMPopTip: 0788a9452806049e3aa0d6d09324606fc41ea646
+  BlocksKit: 7f422b971407001178d181a43b99014ea2591fe6
+  CMPopTipView: 774e0230b5c73abb3c39051da6d8a383373c4f7f
+  DACircularProgress: 4dd437c0fc3da5161cb289e07ac449493d41db71
+  FDFullscreenPopGesture: a8a620179e3d9c40e8e00256dcee1c1a27c6d0f0
+  FLAnimatedImage: 4a0b56255d9b05f18b6dd7ee06871be5d3b89e31
+  FlatUIKit: 1b41f0d4952ce8d970d8479ce79df54a960242c4
+  FMDB: c1968bab3ab0aed38f66cb778ae1e7fa9a652b6e
+  FXBlurView: db786c2561cb49a09ae98407f52460096ab8a44f
+  FXLabel: 14f7d4abb0eb531a0824b327a86f5b790171207f
+  iOS7Colors: db76f4b1b58c2b9607618358667c21cb96de87c4
+  JGActionSheet: 2cfca820b57a11ec4b4a5655d45ee599fbeddc05
+  JTCalendar: 57a4420f12d10c93c3b28da96803e7043d1c9281
+  Masonry: 9f515466afe48632562342a40a1c224071a1a022
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  MGSwipeTableCell: 5ae3b9a15efda26b201adc8676b24040febe6ff6
+  MJRefresh: 743e6404967d1c2c688472ea3ecfde247d872db4
+  MWPhotoBrowser: ba0d0c09ffda3a7ea10093518738c502c1c7141c
+  RBBAnimation: 4b2d66f6d993febce63cd564da934985313b9c59
+  RDVTabBarController: 67794f7a7a37f8e32f046f85ac67d06ab92d624a
+  RegexKitLite-NoWarning: 365d208f8187997e33d9de8baeddfc00728596d8
+  SDWebImage: 69c6303e3348fba97e03f65d65d4fbc26740f461
+  Shimmer: c5374be1c2b0c9e292fb05b339a513cf291cac86
+  UIImage+BlurredFrame: ad2f7195c6947ea3117c7d202f75a51958d5061a
+  XLForm: c9ee7e0f859341279bfd894f9589a9d25c23e4df
+  YTKKeyValueStore: 4d002941540dd5108fa23009b71e0f2f937f7a0f
+
+COCOAPODS: 0.39.0
